@@ -1,1 +1,3 @@
 Practice Git commands for initializing a repository.
+committing changes to multiple files.
+pushing to a remote repository.
