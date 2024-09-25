@@ -1,2 +1,1 @@
 Welcome to git workshop!!
-Objective: Practice Git commands
